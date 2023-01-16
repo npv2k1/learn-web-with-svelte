@@ -22,6 +22,7 @@
     "vite": "^4.0.0"
   },
   "dependencies": {
+    "gh-pages": "^4.0.0",
     "svelte-navigator": "^3.2.2"
   }
 }
